@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PMLS\\extreme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B66499-434A-D4CF-BE08-C2EED017070E}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|c:\\users\\pmls\\extreme\\assets\\samples\\xr interaction toolkit\\3.0.4\\starter assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B66499-434A-D4CF-BE08-C2EED017070E}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\3.0.4\\starter assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0F6EB9-6B5D-FF8C-7EA4-37F01D2109ED}|Assembly-CSharp.csproj|C:\\Users\\PMLS\\extreme\\assets\\mobileartemplateassets\\scripts\\swipetorotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0F6EB9-6B5D-FF8C-7EA4-37F01D2109ED}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\scripts\\swipetorotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\extreme\\Assets\\Samples\\XR Interaction Toolkit\\3.0.4\\Starter Assets\\Scripts\\ObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\3.0.4\\Starter Assets\\Scripts\\ObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\PMLS\\extreme\\Assets\\Samples\\XR Interaction Toolkit\\3.0.4\\Starter Assets\\Scripts\\ObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\3.0.4\\Starter Assets\\Scripts\\ObjectSpawner.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAqwO0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:38:40.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwipeToRotate.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\extreme\\Assets\\MobileARTemplateAssets\\Scripts\\SwipeToRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\Scripts\\SwipeToRotate.cs",
+              "ToolTip": "C:\\Users\\PMLS\\extreme\\Assets\\MobileARTemplateAssets\\Scripts\\SwipeToRotate.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\Scripts\\SwipeToRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:13:55.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
